@@ -1,0 +1,16 @@
+{
+  "experiment_name": "RECONSTRUCTED_ECSH_SYNTHETIC_REPRO",
+  "canonical_seed": 20260816,
+  "lifetimes": 1200,
+  "counts_per_lifetime": {
+    "tuning": 80,
+    "structure": 20,
+    "null": 100
+  },
+  "old_class_size": 16,
+  "reopt_samples_per_config": 800,
+  "fresh_holdout_pairs": 60,
+  "case_difficulty_sd": 0.06,
+  "family_alpha": 0.05,
+  "alpha_schedule": "alpha_i = family_alpha * 6/(pi^2*i^2); counter resets only between independent simulated lifetimes, never within a lifetime"
+}

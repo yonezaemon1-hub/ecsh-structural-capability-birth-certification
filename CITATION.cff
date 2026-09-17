@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper after the DOI is assigned."
+title: "ECSH: Certifying Structural Capability Birth in Self-Modifying Systems via Reoptimized Ancestral Counterfactuals"
+type: article
+authors:
+  - family-names: Yonezu
+    given-names: Ryutaro
+date-released: 2026-09-17
+version: "pre-DOI"
+repository-code: "https://github.com/yonezaemon1-hub/ecsh-structural-capability-birth-certification"

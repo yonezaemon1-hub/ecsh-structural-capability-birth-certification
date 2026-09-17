@@ -1,0 +1,74 @@
+{
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 442,
+      "sha256": "89e8aaa3b1ccd8a789f3685c70aafe177684b9dcab16b17694c497c39f03170e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2874,
+      "sha256": "2ad1b083b2634c155a02c7de55bd74e3ae0e96f808bd1c92d8b875811342361a"
+    },
+    {
+      "path": "RELEASE_STATUS.json",
+      "bytes": 503,
+      "sha256": "681006e4028bff349aba954a5ce93d44f9c20a04e6e8ff12ab41a42e6a4e0001"
+    },
+    {
+      "path": "RIGHTS_NOTICE.md",
+      "bytes": 619,
+      "sha256": "b9f6310828cac83da5f61b966ba87e174d4fad8f1f4e728d1bae5c2468abd25a"
+    },
+    {
+      "path": "evidence/EVIDENCE_POINTER.md",
+      "bytes": 679,
+      "sha256": "bcf9e0a8760bc15c4d31ce10c8b90b598788b466c3a9a073ef995a741e48b09b"
+    },
+    {
+      "path": "paper/ECSH_PREPRINT_PUBLIC_V6_20260917.docx",
+      "bytes": 59289,
+      "sha256": "dba3f9fc6d0f380b93903833dde875fb1872f913b76c137b2d8d04a5f5d1fcbb"
+    },
+    {
+      "path": "paper/ECSH_PREPRINT_PUBLIC_V6_20260917.pdf",
+      "bytes": 264901,
+      "sha256": "d241956d358594929bf1c7ced47aed6b6edd4d7833ff84e2f181bc4d97ddd7ff"
+    },
+    {
+      "path": "provenance/PROVENANCE.md",
+      "bytes": 659,
+      "sha256": "6827393f43b2211b6a5883b5e9997f21794892a867ca763e5438fd00e39cafa0"
+    },
+    {
+      "path": "repro/ECSH_REPRO_SPEC.json",
+      "bytes": 489,
+      "sha256": "bbfb8f6d7a065365f411be20dff70972fdaa30ab4cd3a3686cbb16f94217ecfc"
+    },
+    {
+      "path": "repro/README.txt",
+      "bytes": 1412,
+      "sha256": "4f2603dc2a2495ac704aa421e2d6046b830467331eddc5079871a0d13797ef5c"
+    },
+    {
+      "path": "repro/RUN_ROBUSTNESS_3SEEDS.ps1",
+      "bytes": 995,
+      "sha256": "8f7fbece3a326425592f60ee74ec05919f945961e5cf6f53b43cc12d80c84f0a"
+    },
+    {
+      "path": "repro/RUN_WINDOWS.ps1",
+      "bytes": 1470,
+      "sha256": "198717bde243ae051270769bd12a4e7d95ec708809bf8de8ee2a912979137a92"
+    },
+    {
+      "path": "repro/SHA256_MANIFEST.txt",
+      "bytes": 418,
+      "sha256": "4960338aa963e548d3d24992df9be336e2b75999ba65fcfe84479284b0bdd515"
+    },
+    {
+      "path": "repro/ecsh_repro.py",
+      "bytes": 8332,
+      "sha256": "73e425120b6ca647e46bd660affabfc8bcf3a53a4e947d4dcc8a264ddbd8fb96"
+    }
+  ]
+}

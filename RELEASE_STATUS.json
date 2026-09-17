@@ -1,0 +1,14 @@
+{
+  "status": "PRE_DOI_PUBLIC_RELEASE_CANDIDATE",
+  "paper_version": "V6_20260917",
+  "historical_raw_artifact_recovered": false,
+  "fresh_regeneration_from_frozen_source_spec": true,
+  "candidate_rows_total": 960000,
+  "manuscript_major_numeric_claims_reproduced": true,
+  "private_patent_claim_chart_in_repository": false,
+  "doi_reserved": false,
+  "zenodo_published": false,
+  "github_tag_created": false,
+  "rights": "ALL_RIGHTS_RESERVED_NO_OPEN_SOURCE_LICENSE",
+  "patent_license_granted": false
+}

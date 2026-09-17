@@ -1,8 +1,8 @@
 {
-  "release": "ECSH v1.0.0 release candidate",
+  "release": "ECSH v1.0.0",
   "paper_doi": "10.5281/zenodo.22806440",
   "software_evidence_doi": "10.5281/zenodo.22806442",
-  "zenodo_published": false,
+  "zenodo_published": true,
   "files": [
     {
       "path": "CITATION.cff",
@@ -11,13 +11,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3664,
-      "sha256": "907c3572f1786c86613e8e8922280a416fb8b1852904c51fc1a05ea4e8b252f4"
+      "bytes": 3614,
+      "sha256": "9edca9f696729a707dc63ae0535b3cfe4a592933c83e622406eb7bb898b9a456"
     },
     {
       "path": "RELEASE_STATUS.json",
-      "bytes": 973,
-      "sha256": "f790e97456b0805527cbf90dbd1b4483c74ed475b74e4ba3e6e5644a86505ad7"
+      "bytes": 992,
+      "sha256": "3ac621be4dc07783e822cd3eb257da76f9bc0633a7380e3e466fcb5b6f68dde8"
     },
     {
       "path": "RIGHTS_NOTICE.md",
@@ -26,8 +26,8 @@
     },
     {
       "path": "evidence/EVIDENCE_POINTER.md",
-      "bytes": 1069,
-      "sha256": "2c47e4e499f8695749f0f8e9ea50583dd0219cce87dfc093aa2443fb90ff2a76"
+      "bytes": 1080,
+      "sha256": "f81717b154e4c27c0ab522e4de3e5574b587530c73a9b89572859339f1e38878"
     },
     {
       "path": "paper/ECSH_PREPRINT_PUBLIC_V7_FINAL_20260917.docx",
@@ -41,8 +41,8 @@
     },
     {
       "path": "provenance/PROVENANCE.md",
-      "bytes": 1314,
-      "sha256": "f6f581a1afb993b0ddce72f5d82ad91533e2b507b146296abcff4bff8d3868a7"
+      "bytes": 1426,
+      "sha256": "f1795811b89f3613c48311f297a30b5182e61f93a0aad26474803bed186a9fdd"
     },
     {
       "path": "repro/ECSH_REPRO_SPEC.json",

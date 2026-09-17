@@ -2,7 +2,7 @@
 
 Ryutaro Yonezu — Independent Researcher, Japan
 
-Version 1.0.0 release candidate, 17 September 2026.
+Version 1.0.0, published 17 September 2026.
 
 - Paper DOI: `10.5281/zenodo.22806440`
 - Software/Evidence DOI: `10.5281/zenodo.22806442`
@@ -52,7 +52,7 @@ Frozen public reproduction archive:
 - `NAGI_ECSH_REPRO_V1_0_0.zip`
 - SHA-256 `ac8d1f0765561bfc5b67442e58636a601602073049b24608df4285a3080912e4`
 
-Final paper candidate:
+Final paper:
 
 - DOCX SHA-256 `0677bd27b1f6d4768696dec5c1679a9b56703bcaa9597b4f30154ae975006536`
 - PDF SHA-256 `7ff69867c04f4e016653ea7fd4e0be9c018ce87f3a381fa03d6a57dffc8cd78e`
@@ -77,6 +77,6 @@ A Japanese patent application covering the narrow ECSH core was filed on 19 Augu
 
 Copyright © 2026 Ryutaro Yonezu. All rights reserved. See `RIGHTS_NOTICE.md`.
 
-## Release process
+## Release
 
-The two Zenodo DOIs above are the reserved identifiers for the final Paper and Software/Evidence deposits. Zenodo publication is a separate explicit release action and is not implied by this repository commit.
+The Paper and Software/Evidence records above were published on Zenodo on 17 September 2026. The GitHub `v1.0.0` tag/release is the final repository release marker for this publication.

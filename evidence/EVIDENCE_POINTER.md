@@ -8,7 +8,7 @@ Full fresh-regeneration evidence archive:
 - seeds: 20260816, 20260819, 20260820, 20260821
 - historical raw artifact recovered: false
 - provenance: fresh deterministic regeneration from frozen public source/specification
-- reserved Software/Evidence DOI: `10.5281/zenodo.22806442`
+- published Software/Evidence DOI: `10.5281/zenodo.22806442`
 
 Frozen reproduction source:
 
@@ -25,4 +25,4 @@ Pre-DOI local assembly checkpoint:
 
 - SHA-256: `973c49658d7dbd92ca6e505d0f7f60ebda898d3784abeda6822b768979488a28`
 
-The 960,000-row evidence archive is deposited with the Software/Evidence record rather than stored directly in GitHub.
+The 960,000-row evidence archive is deposited with the published Software/Evidence record rather than stored directly in GitHub.

@@ -1,5 +1,5 @@
 {
-  "status": "DOI_RESERVED_RELEASE_CANDIDATE",
+  "status": "PUBLISHED_V1_0_0",
   "paper_version": "V7_FINAL_20260917",
   "version": "1.0.0",
   "paper_doi": "10.5281/zenodo.22806440",
@@ -13,8 +13,9 @@
   "evidence_zip_sha256": "3894d5ac995ff26a1d97dde01d91da304ae9bfbd355a329964b8ff26a08c1042",
   "frozen_source_zip_sha256": "ac8d1f0765561bfc5b67442e58636a601602073049b24608df4285a3080912e4",
   "private_patent_claim_chart_in_repository": false,
-  "zenodo_published": false,
+  "zenodo_published": true,
   "github_tag_created": false,
   "rights": "ALL_RIGHTS_RESERVED_NO_OPEN_SOURCE_LICENSE",
-  "patent_license_granted": false
+  "patent_license_granted": false,
+  "published_date": "2026-09-17"
 }

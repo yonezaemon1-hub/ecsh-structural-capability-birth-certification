@@ -1,11 +1,13 @@
 # Frozen provenance
 
-## Reserved release identifiers
+## Published release identifiers
 
 - Paper DOI: `10.5281/zenodo.22806440`
 - Software/Evidence DOI: `10.5281/zenodo.22806442`
 - GitHub repository: `https://github.com/yonezaemon1-hub/ecsh-structural-capability-birth-certification`
 - pre-DOI GitHub HEAD: `0343918e9b4bb59e53aa61c12ef9fafee3ea3207`
+- DOI-bearing release-candidate HEAD: `ac983a2a75b57f826bee5bc5519c0cbebc4a6bc0`
+- Zenodo publication date: `2026-09-17`
 
 ## Frozen public reproduction archive
 
@@ -14,7 +16,7 @@
 - `ecsh_repro.py` SHA-256: `73e425120b6ca647e46bd660affabfc8bcf3a53a4e947d4dcc8a264ddbd8fb96`
 - `ECSH_REPRO_SPEC.json` SHA-256: `bbfb8f6d7a065365f411be20dff70972fdaa30ab4cd3a3686cbb16f94217ecfc`
 
-## Final paper candidate
+## Final paper
 
 - DOCX: `ECSH_PREPRINT_PUBLIC_V7_FINAL_20260917.docx`
 - DOCX SHA-256: `0677bd27b1f6d4768696dec5c1679a9b56703bcaa9597b4f30154ae975006536`

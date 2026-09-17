@@ -2,7 +2,11 @@
 
 Ryutaro Yonezu — Independent Researcher, Japan
 
-This repository is the pre-DOI public-release repository for ECSH.
+Version 1.0.0 release candidate, 17 September 2026.
+
+- Paper DOI: `10.5281/zenodo.22806440`
+- Software/Evidence DOI: `10.5281/zenodo.22806442`
+- Repository: https://github.com/yonezaemon1-hub/ecsh-structural-capability-birth-certification
 
 ## Scope
 
@@ -32,11 +36,29 @@ A fresh deterministic regeneration was performed on 17 September 2026 from the f
 - fresh mean false births/lifetime: 0.01944
 - fresh mean precision: 99.9004%
 
-The earlier historical candidate-level raw artifact was not recovered in the bounded local search. The current public evidence is therefore a fresh deterministic regeneration from the frozen source/specification and must not be represented as recovered historical raw.
+The earlier historical candidate-level raw artifact was not recovered in the bounded local search. The public evidence is therefore a fresh deterministic regeneration from the frozen source/specification and is not represented as recovered historical raw.
 
-## Evidence
+## Evidence and immutable identities
 
-The full 960,000-row evidence archive is intentionally not stored in this GitHub repository because it is a large data artifact. Its immutable local pre-DOI identity is recorded in `evidence/EVIDENCE_POINTER.md`. The release archive will be deposited separately with a DOI before final v1.0.0 freeze.
+Full fresh-regeneration evidence archive:
+
+- `NO15_ECSH_PUBLIC_EVIDENCE_REBUILD_20260917_135911.zip`
+- SHA-256 `3894d5ac995ff26a1d97dde01d91da304ae9bfbd355a329964b8ff26a08c1042`
+- 960,000 candidate rows
+- Software/Evidence DOI `10.5281/zenodo.22806442`
+
+Frozen public reproduction archive:
+
+- `NAGI_ECSH_REPRO_V1_0_0.zip`
+- SHA-256 `ac8d1f0765561bfc5b67442e58636a601602073049b24608df4285a3080912e4`
+
+Final paper candidate:
+
+- DOCX SHA-256 `0677bd27b1f6d4768696dec5c1679a9b56703bcaa9597b4f30154ae975006536`
+- PDF SHA-256 `7ff69867c04f4e016653ea7fd4e0be9c018ce87f3a381fa03d6a57dffc8cd78e`
+- Paper DOI `10.5281/zenodo.22806440`
+
+The full 960,000-row evidence archive is intentionally not stored in GitHub because it is a large data artifact; it belongs in the Software/Evidence Zenodo deposit.
 
 ## Claim boundary
 
@@ -55,6 +77,6 @@ A Japanese patent application covering the narrow ECSH core was filed on 19 Augu
 
 Copyright © 2026 Ryutaro Yonezu. All rights reserved. See `RIGHTS_NOTICE.md`.
 
-## DOI
+## Release process
 
-DOI metadata will be inserted after reservation. This repository is intentionally pre-DOI at this commit.
+The two Zenodo DOIs above are the reserved identifiers for the final Paper and Software/Evidence deposits. Zenodo publication is a separate explicit release action and is not implied by this repository commit.

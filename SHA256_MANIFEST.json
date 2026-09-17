@@ -1,19 +1,23 @@
 {
+  "release": "ECSH v1.0.0 release candidate",
+  "paper_doi": "10.5281/zenodo.22806440",
+  "software_evidence_doi": "10.5281/zenodo.22806442",
+  "zenodo_published": false,
   "files": [
     {
       "path": "CITATION.cff",
-      "bytes": 442,
-      "sha256": "89e8aaa3b1ccd8a789f3685c70aafe177684b9dcab16b17694c497c39f03170e"
+      "bytes": 445,
+      "sha256": "14b00b18d0aec57bcfb5ac2b3fe95fb939153755b676cb15314b8c19989a26c1"
     },
     {
       "path": "README.md",
-      "bytes": 2874,
-      "sha256": "2ad1b083b2634c155a02c7de55bd74e3ae0e96f808bd1c92d8b875811342361a"
+      "bytes": 3664,
+      "sha256": "907c3572f1786c86613e8e8922280a416fb8b1852904c51fc1a05ea4e8b252f4"
     },
     {
       "path": "RELEASE_STATUS.json",
-      "bytes": 503,
-      "sha256": "681006e4028bff349aba954a5ce93d44f9c20a04e6e8ff12ab41a42e6a4e0001"
+      "bytes": 973,
+      "sha256": "f790e97456b0805527cbf90dbd1b4483c74ed475b74e4ba3e6e5644a86505ad7"
     },
     {
       "path": "RIGHTS_NOTICE.md",
@@ -22,23 +26,23 @@
     },
     {
       "path": "evidence/EVIDENCE_POINTER.md",
-      "bytes": 679,
-      "sha256": "bcf9e0a8760bc15c4d31ce10c8b90b598788b466c3a9a073ef995a741e48b09b"
+      "bytes": 1069,
+      "sha256": "2c47e4e499f8695749f0f8e9ea50583dd0219cce87dfc093aa2443fb90ff2a76"
     },
     {
-      "path": "paper/ECSH_PREPRINT_PUBLIC_V6_20260917.docx",
-      "bytes": 59289,
-      "sha256": "dba3f9fc6d0f380b93903833dde875fb1872f913b76c137b2d8d04a5f5d1fcbb"
+      "path": "paper/ECSH_PREPRINT_PUBLIC_V7_FINAL_20260917.docx",
+      "bytes": 59493,
+      "sha256": "0677bd27b1f6d4768696dec5c1679a9b56703bcaa9597b4f30154ae975006536"
     },
     {
-      "path": "paper/ECSH_PREPRINT_PUBLIC_V6_20260917.pdf",
-      "bytes": 264901,
-      "sha256": "d241956d358594929bf1c7ced47aed6b6edd4d7833ff84e2f181bc4d97ddd7ff"
+      "path": "paper/ECSH_PREPRINT_PUBLIC_V7_FINAL_20260917.pdf",
+      "bytes": 265801,
+      "sha256": "7ff69867c04f4e016653ea7fd4e0be9c018ce87f3a381fa03d6a57dffc8cd78e"
     },
     {
       "path": "provenance/PROVENANCE.md",
-      "bytes": 659,
-      "sha256": "6827393f43b2211b6a5883b5e9997f21794892a867ca763e5438fd00e39cafa0"
+      "bytes": 1314,
+      "sha256": "f6f581a1afb993b0ddce72f5d82ad91533e2b507b146296abcff4bff8d3868a7"
     },
     {
       "path": "repro/ECSH_REPRO_SPEC.json",

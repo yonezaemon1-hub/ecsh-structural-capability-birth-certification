@@ -80,3 +80,7 @@ Copyright © 2026 Ryutaro Yonezu. All rights reserved. See `RIGHTS_NOTICE.md`.
 ## Release
 
 The Paper and Software/Evidence records above were published on Zenodo on 17 September 2026. The GitHub `v1.0.0` tag/release is the final repository release marker for this publication.
+
+## Research inquiries
+
+For questions about this research, reproduction, or collaboration, contact Yonezu Research Lab: [yonezaemon1+research@gmail.com](mailto:yonezaemon1+research@gmail.com).
